@@ -1,4 +1,4 @@
-# Learning-C-with-Dartmouth_IMTx---DART.IMT.C.01
+# Learning-C-with-Dartmouth_IMTx---DART.IMT.C.01-07
 
 Most of the activities that were done using the course.
 
